@@ -42,7 +42,7 @@ module.exports = {
         /* eslint-disable camelcase */
         short_name: 'fCC Guide',
         start_url: '/',
-        background_color: '#800000',
+        background_color: '#f2f2f2',
         theme_color: '#006400',
         /* eslint-enable camelcase */
         display: 'minimal-ui',
